@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/clear-weather-forecast-186323-186343/weather_frontend"
+}
